@@ -1,0 +1,5 @@
+com\metaphorce\databaseLib\repository\UsuarioRepository.class
+com\metaphorce\databaseLib\entity\Rol.class
+com\metaphorce\databaseLib\dto\RegistroUsuarioDto.class
+com\metaphorce\databaseLib\entity\Usuario.class
+com\metaphorce\databaseLib\dto\LoginUsuarioDto.class
